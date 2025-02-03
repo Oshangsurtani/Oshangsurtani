@@ -1,9 +1,5 @@
 ## Hi there 👋
 i am Oshang Surtani
-<!--
-**Oshangsurtani/Oshangsurtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning AI/ML
@@ -14,3 +10,9 @@ Here are some ideas to get you started:
 email at oshangsurtani@gmail.com
 whatsapp at 9696065252
 - ⚡ Fun fact: i am NATIONAL Athelete,chess player,singer,dancer,Model,influencer,Coder. all at once.
+
+<!--
+**Oshangsurtani/Oshangsurtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
