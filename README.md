@@ -8,7 +8,6 @@ i am Oshang Surtani
 - 💬 Ask me about any Academic doubts
 - 📫 REACH Me at https://www.linkedin.com/in/oshangsurtani/?originalSubdomain=in
 email at oshangsurtani@gmail.com
-whatsapp at 9696065252
 - ⚡ Fun fact: i am NATIONAL Athelete,chess player,singer,dancer,Model,influencer,Coder. all at once.
 
 
